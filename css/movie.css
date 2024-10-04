@@ -12,6 +12,7 @@
 .movie-detail .img{
     position: relative;
 }
+
 .movie-detail .img i{
     position: absolute;
     left: 36%;
