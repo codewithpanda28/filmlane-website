@@ -1,8 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/filmlane-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/filmlane-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/filmlane-website?style=social)
 
   <br />
 
@@ -10,15 +6,13 @@
 
   FilmLane is fully responsive Movie Streaming website made using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/filmlane-website/"><strong>➥ Live Demo</strong></a>
+  <a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
 ### Desktop Preview
-
-https://github.com/pawantech12/filmlane-website/assets/118673866/6bd4a657-9c8a-406a-b733-1b8d1013c593
 
 
 ### Prerequisites
@@ -68,21 +62,19 @@ To run **FilmLane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/filmlane-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/filmlane-website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram].
 
 ### License
 
 This project is **Free To Use** and does not contains any license.
 "# Fastlane-k-hub4u" 
-"# Fastlane-k-hub4u" 
+
